@@ -1,0 +1,1 @@
+# Reflection In this laboratory activity, I learned how to use a Linux environment through KillerCoda. I also learned basic Linux commands, created files using Markdown, organized directories, and built my Cloud Computing Portfolio using GitHub. This activity helped me understand the importance of proper documentation and version control.
