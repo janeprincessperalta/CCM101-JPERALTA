@@ -1,0 +1,1 @@
+# About Me ## Name Jane Princess Peralta ## Course Bachelor of Science in Information Technology (BSIT) ## School University of Eastern Pangasinan ## About Me I am a BSIT student who is interested in cloud computing and Linux. I want to improve my technical skills through laboratory activities.
